@@ -28,7 +28,7 @@ random.seed(1234)
 # In[ ]:
 
 
-goolam= sc.read_h5ad("../data/goolam.h5ad")
+goolam= sc.read_h5ad("./data/goolam.h5ad")
 goolam_sel=goolam
 
 
